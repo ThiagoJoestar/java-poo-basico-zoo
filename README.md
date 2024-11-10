@@ -71,7 +71,3 @@ Miau! Miau!
 ## Licença
 
 Este projeto é de uso livre para fins de estudo e aprendizado de Programação Orientada a Objetos em Java.
-
----
-
-Esse README explica os conceitos e a estrutura do projeto, oferecendo um guia de uso e sugestões de aprimoramento.
